@@ -1,0 +1,22 @@
+# Core Dependencies
+streamlit>=1.28.0
+yfinance>=0.2.18
+pandas>=1.5.3
+numpy>=1.24.3
+
+# Visualization Libraries
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.15.0
+
+# Additional Dependencies (automatically installed with above packages)
+# These are typically installed as dependencies but listed for completeness
+requests>=2.31.0
+urllib3>=1.26.16
+beautifulsoup4>=4.12.2
+lxml>=4.9.2
+html5lib>=1.1
+
+# Optional: For better performance
+pytz>=2023.3
+python-dateutil>=2.8.2
